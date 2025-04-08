@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1744122942 source:d:\bt game\game\background.cpp
+	"BackGround.h"
+
+1744068937 d:\bt game\game\background.h
+	"image.h"
+	"Music.h"
+	"Configuration.h"
+
+1744096810 d:\bt game\game\image.h
+	"Configuration.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1744052324 d:\bt game\game\configuration.h
+
+1744120023 d:\bt game\game\music.h
+	<SDL_mixer.h>
+
+1744122536 source:d:\bt game\game\bird.cpp
+	"Bird.h"
+
+1744120375 d:\bt game\game\bird.h
+	"image.h"
+	"Music.h"
+
+1744122881 source:d:\bt game\game\column.cpp
+	"Column.h"
+
+1744120083 d:\bt game\game\column.h
+	"image.h"
+	"Music.h"
+
+1744122881 source:d:\bt game\game\game.cpp
+	"imagesize.h"
+	<cstdlib>
+	<ctime>
+	"Point.h"
+	"BackGround.h"
+	"Bird.h"
+	"Column.h"
+
+1744059802 d:\bt game\game\imagesize.h
+	<iostream>
+	<SDL.h>
+	"Configuration.h"
+
+1744085111 d:\bt game\game\point.h
+	"image.h"
+
+1744096810 source:d:\bt game\game\image.cpp
+	"image.h"
+
+1744120005 source:d:\bt game\game\music.cpp
+	"Music.h"
+
+1744085111 source:d:\bt game\game\point.cpp
+	"Point.h"
+
